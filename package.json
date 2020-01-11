@@ -1,0 +1,44 @@
+{
+  "name": "jspak",
+  "version": "0.0.0",
+  "description": "JS archive.",
+  "main": "lib/JsPak.js",
+  "engines": {
+    "node": ">=12.13.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "tea-time -R dot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cronvel/jspak.git"
+  },
+  "keywords": [
+    "pak",
+    "archive"
+  ],
+  "author": "Cédric Ronvel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cronvel/jspak/issues"
+  },
+  "config": {
+    "tea-time": {
+      "coverDir": [
+        "lib"
+      ]
+    }
+  },
+  "copyright": {
+    "title": "JsPak",
+    "years": [
+      2020
+    ],
+    "owner": "Cédric Ronvel"
+  }
+}
