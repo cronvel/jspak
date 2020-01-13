@@ -9,7 +9,13 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "bin": {
+    "spellcast": "./bin/spellcast"
+  },
+  "dependencies": {
+    "seventh": "^0.7.30",
+    "utterminal": "^0.5.42"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "tea-time -R dot"
