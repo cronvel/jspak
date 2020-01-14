@@ -9,6 +9,7 @@ out.jsdat
 *.css.gz
 *.js.gz
 .*.pproc.js
+*.jpk
 .spellcast
 out.jsdat
 build
