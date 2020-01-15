@@ -2,7 +2,7 @@
 
 # JsPak
 
-Micro JS archive files.
+JS archive files.
 
 Early alpha.
 
